@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FNF FOOD TRUCK MAP</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="google_maps_key" translatable="false">AIzaSyBEyqtzXuHSgJso7MkzD8tguCaK7go0kDU</string>
+</resources>
